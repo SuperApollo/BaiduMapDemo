@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">妞妞么么哒</string>
+    <string name="show_map">显示基础地图</string>
+    <string name="show_zoom">显示缩放按钮</string>
+    <string name="show_scale">显示缩放标尺</string>
+    <string name="search">搜索</string>
+</resources>

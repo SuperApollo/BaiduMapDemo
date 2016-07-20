@@ -1,0 +1,2 @@
+include ':app', ':socketclient', ':myapplication'
+include ':library'
