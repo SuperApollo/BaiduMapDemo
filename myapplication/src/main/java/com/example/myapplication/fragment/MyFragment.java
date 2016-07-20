@@ -20,7 +20,6 @@ import com.handmark.pulltorefresh.library.PullToRefreshListView;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.zip.Inflater;
 
 /**
  * Created by ${Apollo} on 2016/6/21 20:36.
