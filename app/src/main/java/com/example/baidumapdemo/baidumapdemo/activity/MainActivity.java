@@ -7,13 +7,12 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.view.KeyEvent;
 import android.view.View;
-import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.Toast;
 
 import com.example.baidumapdemo.baidumapdemo.R;
-import com.example.baidumapdemo.baidumapdemo.fragment.ShowMapFragment;
 import com.example.baidumapdemo.baidumapdemo.fragment.LayerMapFragment;
+import com.example.baidumapdemo.baidumapdemo.fragment.ShowMapFragment;
 
 public class MainActivity extends FragmentActivity implements View.OnClickListener {
     private static MainActivity instance;

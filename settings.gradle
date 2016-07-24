@@ -1,2 +1,2 @@
-include ':app', ':socketclient', ':myapplication'
+include ':app', ':socketclient', ':myapplication', ':mymodule'
 include ':library'

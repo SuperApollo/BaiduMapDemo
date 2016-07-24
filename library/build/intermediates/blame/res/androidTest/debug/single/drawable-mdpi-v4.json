@@ -1,14 +1,26 @@
 [
     {
-        "merged": "E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
-        "source": "E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+        "merged": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/library/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/indicator_arrow.png",
+        "source": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/library/build/intermediates/bundles/debug/res/drawable-mdpi-v4/indicator_arrow.png"
     },
     {
-        "merged": "E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
-        "source": "E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\indicator_arrow.png"
+        "merged": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/library/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/default_ptr_flip.png",
+        "source": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/library/build/intermediates/bundles/debug/res/drawable-mdpi-v4/default_ptr_flip.png"
     },
     {
-        "merged": "E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
-        "source": "E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+        "merged": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png",
+        "source": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/library/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/default_ptr_rotate.png",
+        "source": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/library/build/intermediates/bundles/debug/res/drawable-mdpi-v4/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\default_ptr_flip.png",
+        "source": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-mdpi-v4\\indicator_arrow.png",
+        "source": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\bundles\\debug\\res\\drawable-mdpi-v4\\indicator_arrow.png"
     }
 ]
