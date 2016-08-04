@@ -11,7 +11,17 @@
     tools:context="com.example.mymodule.MainActivity">
 
     <TextView
+        android:id="@+id/tv_mymodule"
         android:text="Hello World!"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="时间"
+        android:id="@+id/btn_check_time"
+        android:layout_below="@+id/tv_mymodule"
+        android:layout_margin="10dp"
+        android:background="@drawable/shape"
+        />
 </RelativeLayout>

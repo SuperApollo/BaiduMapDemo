@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--渐变-->
+    <gradient
+        android:endColor="@android:color/white"
+        android:gradientRadius="50"
+        android:startColor="@android:color/holo_blue_bright"
+        android:type="radial" />
+    <!--描边-->
+    <stroke
+        android:width="2dp"
+        android:color="@android:color/holo_blue_light" />
+    <!--实心-->
+    <solid android:color="@android:color/white" />
+    <!--圆角-->
+    <corners android:radius="10dp" />
+
+
+</shape>

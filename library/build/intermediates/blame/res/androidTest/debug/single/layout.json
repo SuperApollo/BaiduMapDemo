@@ -4,15 +4,7 @@
         "source": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/library/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical.xml"
     },
     {
-        "merged": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
-        "source": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
-    },
-    {
         "merged": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/library/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml",
         "source": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/library/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_horizontal.xml"
-    },
-    {
-        "merged": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
-        "source": "/Users/wangpengbo/MyAndroidApps/BaiduMapDemo/BaiduMapDemo/E:\\MyApps\\BaiduMapDemo\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
     }
 ]
